@@ -11,12 +11,12 @@ This project supports:
 Recommended: 64-bit Python 3.11 on Windows.
 
 ```bash
-python -m venv .venv
+python -m venv venv
 ```
 
 Git Bash:
 ```bash
-source .venv/Scripts/activate
+source venv/Scripts/activate
 python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 ```

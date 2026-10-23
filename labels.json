@@ -1,0 +1,78 @@
+{
+  "static": [
+    {
+      "label": "OPEN_PALM",
+      "word": "HELLO"
+    },
+    {
+      "label": "CLOSED_FIST",
+      "word": "YES"
+    },
+    {
+      "label": "TWO_FINGERS",
+      "word": "THANK YOU"
+    },
+    {
+      "label": "POINTING",
+      "word": "HELP"
+    },
+    {
+      "label": "THUMB_UP",
+      "word": "GOOD"
+    },
+    {
+      "label": "THUMB_DOWN",
+      "word": "NO"
+    },
+    {
+      "label": "THREE_FINGERS",
+      "word": "PLEASE"
+    },
+    {
+      "label": "PINKY_UP",
+      "word": "LOVE"
+    },
+    {
+      "label": "ROCK_ON",
+      "word": "ROCK"
+    },
+    {
+      "label": "OK_SIGN",
+      "word": "OK"
+    },
+    {
+      "label": "TWO_OPEN_PALMS",
+      "word": "WELCOME"
+    },
+    {
+      "label": "TWO_FISTS",
+      "word": "STOP"
+    },
+    {
+      "label": "OPEN_PALM_AND_FIST",
+      "word": "I NEED HELP"
+    },
+    {
+      "label": "TWO_THUMBS_UP",
+      "word": "GREAT"
+    }
+  ],
+  "dynamic": [
+    {
+      "label": "WAVE",
+      "word": "HELLO"
+    },
+    {
+      "label": "MOVE_HAND_LEFT",
+      "word": "LEFT"
+    },
+    {
+      "label": "MOVE_HAND_RIGHT",
+      "word": "RIGHT"
+    },
+    {
+      "label": "BOTH_HANDS_UP",
+      "word": "HANDS UP"
+    }
+  ]
+}

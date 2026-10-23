@@ -1,0 +1,7 @@
+mediapipe==0.10.21
+opencv-contrib-python==4.11.0.86
+Pillow==11.1.0
+pyttsx3==2.98
+numpy==1.26.4
+scikit-learn==1.6.1
+joblib==1.4.2
